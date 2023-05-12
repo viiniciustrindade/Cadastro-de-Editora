@@ -13,3 +13,5 @@ namespace Cadastro_de_Editora
         public string nomeEditora { get; set; }
     }
 }
+
+//o gustavo eh o cara, (comeram o cu do cara) 
