@@ -14,4 +14,4 @@ namespace Cadastro_de_Editora
     }
 }
 
-//o gustavo eh o cara, (comeram o cu do cara) 
+
