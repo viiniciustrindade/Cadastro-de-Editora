@@ -1,0 +1,11 @@
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\bin\Debug\Cadastro de Editora.exe.config
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\bin\Debug\Cadastro de Editora.exe
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\bin\Debug\Cadastro de Editora.pdb
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro de Editora.csproj.AssemblyReference.cache
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro de Editora.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro_de_Editora.Form1.resources
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro_de_Editora.Properties.Resources.resources
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro de Editora.csproj.GenerateResource.cache
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro de Editora.csproj.CoreCompileInputs.cache
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro de Editora.exe
+C:\Users\estagiario3\Desktop\Movtech-Paciente-Api\Cadastro de Editora\Cadastro de Editora\obj\Debug\Cadastro de Editora.pdb
