@@ -160,5 +160,25 @@ namespace Cadastro_de_Editora
                 MessageBox.Show($"Houve um problema ao excluir a editora!\n{ex.Message}");
             }
         }
+
+        private void txtNomeEditora_TextChanged(object sender, EventArgs e)
+        {
+            if (txtNomeEditora.Text == "")
+            {
+                asteriscoInfo.Visible = true;  // Mostra a label se o TextBox estiver vazio
+            }
+            else
+            {
+                asteriscoInfo.Visible = false; // Oculta a label se o TextBox estiver preenchido
+            }
+        }
+
+        private void asteriscoInfo_MouseHover(object sender, EventArgs e)
+        {
+            Label label = (Label)sender;
+            string mensagem = "Este Campo é obrigatório!";
+            ToolTip toolTip = new ToolTip();
+            toolTip.SetToolTip(label, mensagem);
+        }
     }
 }

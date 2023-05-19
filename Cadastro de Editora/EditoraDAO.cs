@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Cadastro_de_Editora
 {
-    internal class EditoraDAO
+    public class EditoraDAO
     {
         private SqlConnection Connection { get; }
         public EditoraDAO(SqlConnection connection)
