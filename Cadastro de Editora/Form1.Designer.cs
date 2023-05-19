@@ -56,6 +56,7 @@
             this.dadosGrid.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.colCodEditora,
             this.colNomeEditora});
+            this.dadosGrid.Cursor = System.Windows.Forms.Cursors.Hand;
             this.dadosGrid.Location = new System.Drawing.Point(20, 87);
             this.dadosGrid.Margin = new System.Windows.Forms.Padding(4);
             this.dadosGrid.Name = "dadosGrid";
@@ -87,6 +88,7 @@
             // btn_Excluir
             // 
             this.btn_Excluir.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_Excluir.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_Excluir.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Excluir.Location = new System.Drawing.Point(572, 54);
             this.btn_Excluir.Margin = new System.Windows.Forms.Padding(4);
@@ -100,6 +102,7 @@
             // btnSalvar
             // 
             this.btnSalvar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSalvar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSalvar.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSalvar.ForeColor = System.Drawing.Color.Black;
             this.btnSalvar.Location = new System.Drawing.Point(572, 26);
