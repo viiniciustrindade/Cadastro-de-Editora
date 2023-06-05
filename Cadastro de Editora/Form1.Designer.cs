@@ -71,7 +71,7 @@
             // 
             this.colCodEditora.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
             this.colCodEditora.FillWeight = 152.2843F;
-            this.colCodEditora.HeaderText = "Codigo";
+            this.colCodEditora.HeaderText = "Código";
             this.colCodEditora.MinimumWidth = 6;
             this.colCodEditora.Name = "colCodEditora";
             this.colCodEditora.ReadOnly = true;
@@ -80,7 +80,7 @@
             // colNomeEditora
             // 
             this.colNomeEditora.FillWeight = 73.85786F;
-            this.colNomeEditora.HeaderText = "Nome Editora";
+            this.colNomeEditora.HeaderText = "Nome editora";
             this.colNomeEditora.MinimumWidth = 6;
             this.colNomeEditora.Name = "colNomeEditora";
             this.colNomeEditora.ReadOnly = true;
@@ -116,13 +116,11 @@
             // 
             // txtNomeEditora
             // 
-            this.txtNomeEditora.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtNomeEditora.BackColor = System.Drawing.SystemColors.Info;
             this.txtNomeEditora.Location = new System.Drawing.Point(132, 55);
             this.txtNomeEditora.Margin = new System.Windows.Forms.Padding(4);
             this.txtNomeEditora.Name = "txtNomeEditora";
-            this.txtNomeEditora.Size = new System.Drawing.Size(425, 22);
+            this.txtNomeEditora.Size = new System.Drawing.Size(281, 22);
             this.txtNomeEditora.TabIndex = 23;
             this.txtNomeEditora.TextChanged += new System.EventHandler(this.txtNomeEditora_TextChanged);
             // 
@@ -156,7 +154,7 @@
             this.labelNomeAutor.Name = "labelNomeAutor";
             this.labelNomeAutor.Size = new System.Drawing.Size(102, 20);
             this.labelNomeAutor.TabIndex = 20;
-            this.labelNomeAutor.Text = "Nome Editora";
+            this.labelNomeAutor.Text = "Nome editora";
             // 
             // label1
             // 
@@ -167,15 +165,14 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(58, 20);
             this.label1.TabIndex = 29;
-            this.label1.Text = "Codigo";
+            this.label1.Text = "Código";
             // 
             // asteriscoInfo
             // 
-            this.asteriscoInfo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.asteriscoInfo.AutoSize = true;
             this.asteriscoInfo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.asteriscoInfo.ForeColor = System.Drawing.Color.Red;
-            this.asteriscoInfo.Location = new System.Drawing.Point(559, 55);
+            this.asteriscoInfo.Location = new System.Drawing.Point(420, 55);
             this.asteriscoInfo.Name = "asteriscoInfo";
             this.asteriscoInfo.Size = new System.Drawing.Size(12, 16);
             this.asteriscoInfo.TabIndex = 30;
@@ -201,7 +198,7 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Cadastro Editora";
+            this.Text = "Cadastro editora";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dadosGrid)).EndInit();
             this.ResumeLayout(false);
@@ -219,9 +216,9 @@
         private System.Windows.Forms.Label labelCodAutor;
         private System.Windows.Forms.Label labelNomeAutor;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label asteriscoInfo;
         private System.Windows.Forms.DataGridViewTextBoxColumn colCodEditora;
         private System.Windows.Forms.DataGridViewTextBoxColumn colNomeEditora;
-        private System.Windows.Forms.Label asteriscoInfo;
     }
 }
 
